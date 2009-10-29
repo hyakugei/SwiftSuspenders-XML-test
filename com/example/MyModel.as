@@ -1,0 +1,1 @@
+﻿package com.example{	public class MyModel	{					public function hello()		{			trace("hello!");		}	}}

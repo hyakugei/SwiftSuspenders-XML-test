@@ -1,0 +1,1 @@
+﻿package com.example{	import com.example.MyModel;		public class MyClass	{		public var model:MyModel;		public var command:MyCommand;			}}
